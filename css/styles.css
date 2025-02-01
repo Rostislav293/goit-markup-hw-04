@@ -261,12 +261,11 @@ align-items: center;
 
 }
 
+
 /*-------------------- People--------------------- */
 .people-container{
   padding: 32px 0;
   text-align: center;
-
-
 }
 
 .people-list{
@@ -325,8 +324,36 @@ gap: 24px;
   letter-spacing: 0.02em;
   color: #434455;
   text-align: center;
+  margin-bottom: 8px;
 }
 
+.icons-people-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+.icons-people-item {
+ 
+
+}
+.icon-people-link {
+  width: 40px;
+  height: 40px;
+  background-color: #4D5AE5;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+
+}
+.icon-people-soc {
+  fill: #F4F4FD;
+  
+}
+.icon-people {
+}
 /* ----------------Portfolio--------------------- */
 
 .portfolio {
@@ -431,4 +458,14 @@ gap: 24px;
   letter-spacing: 0.02em;
   max-width: 264px;
  
+}
+.tex-container{
+  color:#FFFFFF;
+font-family: "Roboto", sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+
 }
