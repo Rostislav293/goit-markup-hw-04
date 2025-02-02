@@ -172,7 +172,7 @@ bottom: -1px;
 .header-address-menu-ling:focus {
   color: #404bbf;
 }
-/* --------------------effect---------------- */
+/* --------------------effect----1------------ */
 
 .effective{
   padding-top: 188px;
@@ -182,7 +182,7 @@ bottom: -1px;
 
 .effective {
   background-color: #2e2f42;
-  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), 
+  background-image: 
   url(../images/people-office\ 1.jpg);
   background-repeat: no-repeat;
   background-position: center;
@@ -227,7 +227,7 @@ bottom: -1px;
 .effective-btn:focus {
   background-color: #404bbf;
 }
-/* -------------------------Our----------------------- */
+/* -------------------------Our-----2------------------ */
 .our-title{
   position: absolute;
   width: 1px;
@@ -287,7 +287,7 @@ bottom: -1px;
 }
 
 
-/*-------------------- People--------------------- */
+/*-------------------- People------3--------------- */
 .people-container{
   padding: 32px 0;
   text-align: center;
@@ -386,7 +386,7 @@ gap: 24px;
 }
 .icon-people {
 }
-/* ----------------Portfolio--------------------- */
+/* ----------------Portfolio----4----------------- */
 
 .portfolio {
   color: #e7e9fc;
